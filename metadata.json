@@ -1,0 +1,6 @@
+{
+  "name": "TokToy",
+  "description": "A simple TikTok-like vertical scrolling video feed applet",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
